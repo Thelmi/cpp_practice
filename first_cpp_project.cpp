@@ -2,6 +2,8 @@
 
 int main()
 {
-	std::cout << "Hello World";
+	int file_size = 4;
+	double sales = 4.4;
+	std::cout << sales << ' ' << file_size;
 	return (0);
 }
