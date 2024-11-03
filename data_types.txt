@@ -1,0 +1,29 @@
+Data types                  Bytes                          Range
+
+short                        2                         -32,768 to 32,767
+
+int                          4                           -2B to 2B
+
+long                         4                              same
+
+long long                    8                            -4B to 4B
+
+float                        4                            -3.4E38 to 3.4E38
+
+double                       8                            -1.7E308 to 1.7E308
+
+long double                  8                             -3.4E932 to 1.7E4832
+
+bool                         1                              true/false
+
+char                         1                                  1
+
+______________________________________________________________________________________________
+
+Num System                          Digits                         example
+
+Decimal (base 10)                     0-9                           255
+
+Binary (base 2)                       0, 1                         1111 1111
+
+Hexadecimal                           0-9, A-F                         FF
